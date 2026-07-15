@@ -57,3 +57,7 @@ The build output lands in `dist/`, which you can deploy to any static host
 - Swap in your own photos by editing `src/data/photos.js`.
 - Colors, fonts, and spacing are defined as CSS custom properties at the top of
   `src/styles/index.css` — change the palette there to reskin the whole site.
+
+  ## Screenshot
+
+  ![Home Page](images/home.png)
